@@ -1,7 +1,7 @@
 ## 1.SVN资源同步工具使用说明
 > SVN同步工具下载:[https://tortoisesvn.net/downloads.html](https://tortoisesvn.net/downloads.html "https://tortoisesvn.net/downloads.html")
 
-> SVN地址：[http://10.0.204.253/!/#AllResources](http://10.0.121.165/!/#)，使用Google浏览器或其他兼容性高的浏览器打开
+> SVN地址：[http://10.0.204.253/!/#AllResources](http://10.0.204.253/!/#)，使用Google浏览器或其他兼容性高的浏览器打开
 
 当前SVN目录结构如下
 
@@ -104,7 +104,7 @@
 
 ---
 ## 7.文件夹上传以及复制SVN中其他文件夹
-SVN地址：http://10.0.121.165/svn/AllResources
+SVN地址：http://10.0.204.253/svn/AllResources
 
 1. 空白处右键，或者在已经与SVN关联的文件夹右键
 2. ![](https://i.imgur.com/2BTVOzL.png)
