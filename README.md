@@ -97,10 +97,10 @@
 
 ---
 ## 6.文件夹如何断开与SVN的链接？
-1. 在查看中，将隐藏的项目一项勾选打开，删除.svn文件夹之后，整个文件夹就变成普通文件夹，不再与SVN同步，SVN的一些图标还会保存，多按几次F5刷新即可
+1. 在使用他人的SVN文件的时候，建议使用Export的方式，即只下载文件，不关联SVN，本地无论怎样修改这些文件都不会引起SVN的变动
 
 
-![](https://i.imgur.com/Q8aryf5.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MKXupDrWayl3vzhUhxx%2F-MKXv8KWTcT-zPevkzrm%2F-MKXxzWsPpwHTUTz8Xi9%2FC80DDD6D-7DCA-4eb2-A80F-FF9D0D0B673A.png?alt=media&token=efac0e3f-0651-49cb-b939-ae6f3ef5b787)
 
 ---
 ## 7.文件夹上传以及复制SVN中其他文件夹
